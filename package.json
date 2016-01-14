@@ -1,0 +1,27 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulBrimley/chatty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulBrimley/chatty/issues"
+  },
+  "homepage": "https://github.com/PaulBrimley/chatty#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  }
+}
